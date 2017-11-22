@@ -1,0 +1,12 @@
+{
+  "name": "1122-nodejs",
+  "version": "1.0.0",
+  "description": "\"Testing out for the first time, NPM\"",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "\"Idk?\"",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
